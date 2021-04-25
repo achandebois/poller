@@ -13,6 +13,7 @@ NB:
 - Scroll/Pagination is not implemented and a hardcoded value of 100 is put in the repository
 - A timeout has been added on the webclient
 - A pattern regexp validator has been added to check URL (maybe use URL from java to check it)
+- In the 4 hours assignement I didn't have time to implements MainVerticle test and some little refactoring
 
 # Building
 In intelliJ, on the main project
